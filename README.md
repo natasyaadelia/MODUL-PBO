@@ -18,6 +18,7 @@
 #![AltText](https://github.com/natasyaadelia/MODUL-PBO/blob/master/Tugas%20Praktikum.png "Hasil tujuh")
 # Hasil Variabel
 #![AltText](https://github.com/natasyaadelia/MODUL-PBO/blob/master/Variabel.png "Hasil delapan")
-> KESIMPULAN
-Class : Dapat diartikan seperti bungkus yang mencangkup semua yang ada di dalamnya
-
+# KESIMPULAN
+> Class : Dapat diartikan seperti bungkus yang mencangkup semua yang ada di dalamnya
+> Method : Bagian-bagian kode yang dapat dipanggil oleh program utama 
+> Objek : Hasil cetak dari class
