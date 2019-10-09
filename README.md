@@ -19,6 +19,6 @@
 # Hasil Variabel
 #![AltText](https://github.com/natasyaadelia/MODUL-PBO/blob/master/Variabel.png "Hasil delapan")
 # KESIMPULAN
-> Class : Dapat diartikan seperti bungkus yang mencangkup semua yang ada di dalamnya
-> Method : Bagian-bagian kode yang dapat dipanggil oleh program utama 
-> Objek : Hasil cetak dari class
+1. Class : Dapat diartikan seperti bungkus yang mencangkup semua yang ada di dalamnya
+2. Method : Bagian-bagian kode yang dapat dipanggil oleh program utama 
+3. Objek : Hasil cetak dari class
